@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<livros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="livros.xsd">
+  <livro isbn="0001">
+    <titulo>JavaServer Pages</titulo>
+    <autor>Nick Todd</autor>
+    <editora>Campus</editora>
+  </livro>
+  <livro isbn="0002">
+    <titulo>Zezinho Dono da Porquinha Preta</titulo>
+    <autor>Zezinho</autor>
+    <editora>Campus</editora>
+  </livro>
+  <livro>
+    <titulo>Sitio do Pica-pal Amarelo</titulo>
+    <autor>Monteiro Lobato</autor>
+    <editora>Saraiva</editora>
+  </livro>
+  <livro>
+    <titulo>o Guarani</titulo>
+    <autor>José de Alencar</autor>
+    <editora>Qualquer</editora>
+  </livro>
+  <livro>
+    <titulo>Meu Pé de Laranja Lima</titulo>
+    <autor>Desconhecido</autor>
+    <editora>Arabia</editora>
+  </livro>
+  <livro>
+    <titulo>O monge e o Executivo</titulo>
+    <autor>Claudio</autor>
+    <editora>Embrassa</editora>
+  </livro>
+  <livro>
+    <titulo>Qualquer um</titulo>
+    <autor>Qualquer</autor>
+    <editora>Qualquer</editora>
+  </livro>
+  <livro>
+    <titulo></titulo>
+    <autor></autor>
+    <editora></editora>
+  </livro>
+</livros>

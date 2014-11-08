@@ -1,0 +1,9 @@
+﻿<!ELEMENT livros (livro+)>
+<!ATTLIST livros xmlns:xsi CDATA #IMPLIED>
+<!ATTLIST livros xsi:noNamespaceSchemaLocation CDATA #IMPLIED>
+<!ELEMENT livro ((titulo|autor|editora)+)>
+<!ATTLIST livro isbn CDATA #IMPLIED>
+<!ELEMENT isbn (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT editora (#PCDATA)>
